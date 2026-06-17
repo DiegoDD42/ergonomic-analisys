@@ -342,9 +342,7 @@ http://localhost:5173
 
 Arquivo:
 
-```text
-backend/model/best.pt
-```
+https://drive.google.com/file/d/1VDbeX3E3Vta9HjaqLWRqumz3caklWpxP/view?usp=drive_link
 
 ---
 
