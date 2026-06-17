@@ -339,17 +339,7 @@ http://localhost:5173
 Arquivo:
 
 ```text
-best.pt
-```
-
-Link para download:
-
-[INSERIR LINK]
-
-Ou disponibilizar em:
-
-```text
-weights/best.pt
+backend/model/best.pt
 ```
 
 ---
