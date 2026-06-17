@@ -125,11 +125,13 @@ Total de 17 keypoints.
 | Precision | 0.474 |
 | Recall    | 0.539 |
 
-###Link do Notebook GoogleColab
+
+### Link do Notebook GoogleColab
 
 https://colab.research.google.com/drive/1mOGpuo5tHSPp4z93L-lYDwBT4Q6Wpqkg#scrollTo=eafcff79
----
 
+
+---
 # Resultados do Treino
 
 ## Curva de Treinamento
