@@ -70,10 +70,10 @@ Roboflow
 
 | Conjunto  | Quantidade |
 | --------- | ---------- |
-| Treino    | [INSERIR]  |
-| Validação | [INSERIR]  |
-| Teste     | [INSERIR]  |
-| Total     | [INSERIR]  |
+| Treino    | 53  |
+| Validação | 9 |
+| Teste     | 4 |
+| Total     | 66  |
 
 ### Classes
 
@@ -125,7 +125,9 @@ Total de 17 keypoints.
 | Precision | 0.474 |
 | Recall    | 0.539 |
 
+###Link do Notebook GoogleColab
 
+https://colab.research.google.com/drive/1mOGpuo5tHSPp4z93L-lYDwBT4Q6Wpqkg#scrollTo=eafcff79
 ---
 
 # Resultados do Treino
